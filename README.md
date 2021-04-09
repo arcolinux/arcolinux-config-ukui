@@ -1,1 +1,1 @@
-# ArcoLinux-config for ukui
+# ArcoLinux-config
